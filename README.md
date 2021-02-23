@@ -1,6 +1,12 @@
 # Api Sentiment Project
 
 
+
+
+
+![portada](/images/portada.jpeg)
+
+
 ## Introducion:
 En los últimos tiempos, los concursos de talentos se han convertido en un género notable de telerrealidad. Tanto famososo como anonimos de todas las edades han ocupando nuestras horas muertas con sus pasiones, penas y emociones. 
 
