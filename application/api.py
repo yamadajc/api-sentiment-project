@@ -2,11 +2,11 @@ from flask import Flask, request
 from bson import json_util
 from helpers.endpoints import *
 
-app = Flask("mi api")
+app = Flask("ApiSiente")
 
 @app.route("/")
 def hola():
-    return "mi api"
+    return "¡¡Bien venido al registro de frases de personajes de la tele!!"
 
 @app.route("/<typ>/new")
 def new(typ):
