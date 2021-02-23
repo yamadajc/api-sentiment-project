@@ -8,7 +8,7 @@ character_set = {
     "obligatory":["name"],
     "at_least_one":["name","role"],
     "sing":"character",
-    "core":"name"
+    "core":"role"
 }
 twitter_set = {
     "obligatory":["name","tweet"],

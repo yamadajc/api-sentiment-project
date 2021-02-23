@@ -30,9 +30,8 @@ def list_all(typ):
     settings = setup(typ)
 
     res = read_coll(typ,{})
-    response = {c[settings['core']]:str(c['_id']) for c in res}
     
-    return response 
+    return res
 
 def get(obj,typ):
     settings = setup(typ)
