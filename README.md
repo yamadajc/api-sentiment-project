@@ -69,7 +69,7 @@ El proceso descrito a continuacion puede encotrarse en el notebook **sentiment-a
 
 1. Importacion de datos de la API *metodo get* 
 2. Tokenizacion de los datos *RegexpTokenizer*
-3. Traducion de los datos con *spanish_string.translate* 
+3. Traduccion de los datos con *spanish_string.translate* 
 4. Discriminacion de palabras superfluoas con *stopwords*
 5. Catalogacion de sentimiento con *NLTK*
 
